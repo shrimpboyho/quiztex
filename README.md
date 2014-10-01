@@ -1,4 +1,6 @@
-quiztex
+[quizTeX]() - write and render LaTeX equations in Quizlet
 =======
 
-quizlet flashcards to latex
+<img src = 'sample.png'>
+
+
